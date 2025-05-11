@@ -54,8 +54,8 @@ This project implements a Machine Learning model (Random Forest) to predict cust
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/GabrielHenriqueCA/loan-default-prediction.git]
-cd [default_prone_model/src]
+git clone https://github.com/GabrielHenriqueCA/loan-default-prediction.git
+cd default_prone_model/src
 ```
 
 2. Create a virtual environment (recommended):
